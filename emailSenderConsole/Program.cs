@@ -74,7 +74,6 @@ internal class  Program
             //smtp.Disconnect(true);
 
 
-
             /////////////////////////////////////////////////////
 
             //MailMessage message = new MailMessage();
